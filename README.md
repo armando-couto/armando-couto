@@ -13,7 +13,35 @@
 </p>
 
 <p align="left">
+  🧪 Tests: <strong>JUnit 4</strong>, <strong>RSpec</strong> and <strong>Karma</strong>.
+</p>
+
+<p align="left">
   🪣 Databases: <strong>PostgreSQL</strong>, <strong>MongoDB</strong>, <strong>SQLServer</strong> and <strong>MySQL</strong>.
+</p>
+
+<p align="left">
+  👌 Dependency Manager and Build Generation: <strong>Bundler</strong>, <strong>npm</strong>, <strong>Maven</strong>, <strong>Bower</strong>, <strong>Grunt</strong>, <strong>Gradle</strong>, <strong>Ant</strong> and <strong>Ivy</strong>.
+</p>
+
+<p align="left">
+  🖥️ Server: <strong>Amazon AWS </strong>, <strong>Portainer</strong>, <strong>Heroku.com</strong> and <strong>Servidores Locais (Ubuntu e Windows)</strong>.
+</p>
+
+<p align="left">
+  🪄 CI: <strong>Github Actions</strong>, <strong>Bitbucket Pipelines</strong> and <strong>Jenkins/Hudson</strong>.
+</p>
+
+<p align="left">
+  🏬 Deploy: <strong>Scrum</strong> and <strong>Kanban</strong>.
+</p>
+
+<p align="left">
+  ✨ Agile Methodologies: <strong>Scrum</strong> and <strong>Kanban</strong>.
+</p>
+
+<p align="left">
+  🚧 Project Management Tools: <strong>Jira</strong>, <strong>ClickUp</strong>, <strong>Trello</strong> and <strong>Redmine</strong>.
 </p>
 
 <p align="left">
