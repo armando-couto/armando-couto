@@ -25,7 +25,7 @@
 </p>
 
 <p align="left">
-  🖥️ Server: <strong>Amazon AWS </strong>, <strong>Portainer</strong>, <strong>Heroku.com</strong> and <strong>Servidores Locais (Ubuntu e Windows)</strong>.
+  🖥️ Server: <strong>Nginx</strong>, <strong>Tomcat ~> 5</strong>, <strong>JBoss EAP 6.1</strong> and <strong>Jetty 8</strong>.
 </p>
 
 <p align="left">
@@ -33,7 +33,7 @@
 </p>
 
 <p align="left">
-  🏬 Deploy: <strong>Scrum</strong> and <strong>Kanban</strong>.
+  🏬 Deploy: <strong>Amazon AWS</strong>, <strong>Portainer</strong>, <strong>Heroku.com</strong> and <strong>Local Servers (Ubuntu e Windows)</strong>.
 </p>
 
 <p align="left">
