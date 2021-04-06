@@ -1,4 +1,4 @@
-<p align="left">That's a little bit of me ...</p>
+<p align="left">A little about myself ...</p>
 
 <p align="left">
   🌎 Functions: <strong>Manager Developer</strong>, <strong>DevOps</strong>, <strong>CSM</strong> and <strong>LKU</strong>.
