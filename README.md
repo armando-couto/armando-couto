@@ -9,6 +9,10 @@
 </p>
 
 <p align="left">
+  🔥 Frameworks: <strong>Rails ~> 4</strong>, <strong>Vue.js</strong>, <strong>Iris</strong>, <strong>AngularJS</strong>, <strong>Angular 2</strong>, <strong>jQuery</strong>, <strong>Spring Framework</strong>, <strong>Spring Boot</strong>, <strong>JSF</strong>, <strong>VRaptor 3.3.1</strong> and <strong>Slim PHP</strong>.
+</p>
+
+<p align="left">
   🪣 Databases: <strong>PostgreSQL</strong>, <strong>MongoDB</strong>, <strong>SQLServer</strong> and <strong>MySQL</strong>.
 </p>
 
