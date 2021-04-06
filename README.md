@@ -18,6 +18,9 @@
   
 <a href="https://twitter.com/ArmandoCouto" alt="Twitter">
   <img src="https://img.shields.io/badge/-Twitter-0e76a8?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/ArmandoCouto"/></a>
+
+<a href="https://armandocouto.com.br/" alt="Site Personal">
+  <img src="https://img.shields.io/badge/-Site_Personal-0e76a8?style=flat&logoColor=white&link=https://armandocouto.com.br/"/></a>
 </p>
 
 <hr/>
