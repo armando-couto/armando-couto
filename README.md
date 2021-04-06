@@ -19,5 +19,3 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=armando-couto&show_icons=true&theme=chartreuse-dark)](https://github.com/armando-couto/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=armando-couto&show_icons=true&theme=chartreuse-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<img src="https://github.com/armando-couto/armando-couto/blob/master/procreator-ux-design-studio-NbMKx3YJvik-unsplash.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
