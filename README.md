@@ -33,7 +33,7 @@
 </p>
 
 <p align="left">
-  🏬 Deploy: <strong>Amazon AWS</strong>, <strong>Portainer</strong>, <strong>Heroku.com</strong> and <strong>Local Servers (Ubuntu e Windows)</strong>.
+  🏬 Deploy: <strong>Amazon AWS</strong>, <strong>Portainer</strong>, <strong>Heroku.com</strong> and <strong>Local Servers (Ubuntu | Windows)</strong>.
 </p>
 
 <p align="left">
