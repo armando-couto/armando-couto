@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  💻 Programming Languages: <strong>Ruby</strong>, <strong>GO</strong>, <a href="#" alt="#">
+  💻 Programming Languages: <a href="#" alt="#"><img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/></a>, <a href="#" alt="#"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/></a>, <a href="#" alt="#">
   <img src="https://camo.githubusercontent.com/cf1a0ef083a2372d7f66b4691d5d25bfd8c098f42871e8da90edb1f32ed187c4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074"/></a>, <a href="#" alt="#">
   <img src="https://camo.githubusercontent.com/e17e119d8c9bb34ac9710be65d35d52a7e04cc260476760305525204df5f34b0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d3030373339363f7374796c653d666c61742d737175617265266c6f676f3d6a617661"/></a>, <strong>Dart</strong>, <strong>Kotlin</strong>, <a href="#" alt="#">
   <img src="https://camo.githubusercontent.com/8b76dad952a5f01b227f0fc83168009e115d7a0c5f9eca6ea918d6ae4e71b8ff/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970655363726970742d3030374143433f7374796c653d666c61742d737175617265266c6f676f3d74797065736372697074"/></a> and <strong>PHP</strong>.
