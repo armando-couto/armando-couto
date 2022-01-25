@@ -22,11 +22,11 @@
 </p>
 
 <p align="left">
-  🧪 Tests: <strong>JUnit 4</strong>, <strong>RSpec</strong> and <strong>Karma</strong>.
+  🧪 Tests: <a href="#" alt="#"><img src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"/></a>, <strong>RSpec</strong> and <strong>Karma</strong>.
 </p>
 
 <p align="left">
-  🪣 Databases: <strong>PostgreSQL</strong>, <a href="#" alt="#">
+  🪣 Databases: <a href="#" alt="#"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/></a>, <a href="#" alt="#">
   <img src="https://camo.githubusercontent.com/392fa71fd2737088b6d21ba33f3d2fb6e1ac7c61142cdbe56c1d688ecf781ab8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d6f6e676f44422d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6d6f6e676f6462"/></a>, <a href="#" alt="#">
   <img src="https://camo.githubusercontent.com/e2d7cd23da0444893705e2927f3d5de4c3cb03b93fe119c637c16ab485cd378d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d53514c2532305365727665722d4343323932373f7374796c653d666c61742d737175617265266c6f676f3d6d6963726f736f66742d73716c2d736572766572266c6f676f436f6c6f723d7768697465"/></a>, <a href="#" alt="#">
   <img src="https://camo.githubusercontent.com/0b8c9a9b23895b6df5ee44e3cb68d7b8287cf5e232fa6f439f5756e2d853c494/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46697265626173652d4646434132383f7374796c653d666c61742d737175617265266c6f676f3d6669726562617365266c6f676f436f6c6f723d7768697465"/></a> and <a href="#" alt="#">
@@ -34,20 +34,20 @@
 </p>
 
 <p align="left">
-  👌 Dependency Manager and Build Generation: <strong>Bundler</strong>, <strong>npm</strong>, <strong>Maven</strong>, <strong>Bower</strong>, <strong>Grunt</strong>, <strong>Gradle</strong>, <strong>Ant</strong> and <strong>Ivy</strong>.
+  👌 Dependency Manager and Build Generation: <strong>Bundler</strong>, <a href="#" alt="#"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/></a>, <a href="#" alt="#"><img src="https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/></a>, <strong>Bower</strong>, <strong>Grunt</strong>, <a href="#" alt="#"><img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"/></a>, <a href="#" alt="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/></a>, <strong>Ant</strong> and <strong>Ivy</strong>.
 </p>
 
 <p align="left">
-  🖥️ Server: <strong>Nginx</strong>, <strong>Tomcat ~> 5</strong>, <strong>JBoss EAP 6.1</strong> and <strong>Jetty 8</strong>.
+  🖥️ Server: <a href="#" alt="#"><img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/></a>, <strong>Tomcat ~> 5</strong>, <strong>JBoss EAP 6.1</strong> and <strong>Jetty 8</strong>.
 </p>
 
 <p align="left">
-  🪄 CI: <strong>Github Actions</strong>, <strong>Bitbucket Pipelines</strong> and <strong>Jenkins/Hudson</strong>.
+  🪄 CI: <a href="#" alt="#"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/></a>, <a href="#" alt="#"><img src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white"/></a> and <a href="#" alt="#"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/></a>.
 </p>
 
 <p align="left">
   🏬 Deploy: <a href="#" alt="#">
-  <img src="https://camo.githubusercontent.com/204410115a0bb658668e7446bfc6a7eadb6a96a98d81daba65ddaaa541e95f58/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446f636b65722d3234393645443f7374796c653d666c61742d737175617265266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465"/></a>, <strong>Amazon AWS</strong>, <strong>Portainer</strong>, <strong>Heroku.com</strong> and <strong>Local Servers (Ubuntu | Windows)</strong>.
+  <img src="https://camo.githubusercontent.com/204410115a0bb658668e7446bfc6a7eadb6a96a98d81daba65ddaaa541e95f58/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446f636b65722d3234393645443f7374796c653d666c61742d737175617265266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465"/></a>, <a href="#" alt="#"><img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/></a>, <strong>Portainer</strong>, <a href="#" alt="#"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/></a> and <strong>Local Servers (<a href="#" alt="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/></a> | <a href="#" alt="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/></a>)</strong>.
 </p>
 
 <p align="left">
@@ -57,7 +57,7 @@
 <p align="left">
   🚧 Project Management Tools: <a href="#" alt="#">
   <img src="https://camo.githubusercontent.com/a95eb8afd7ec4675e0d4888b07848a18ca7a23421d9a8b9e9c61d4c01e984948/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a4952412d3030353243433f7374796c653d666c61742d737175617265266c6f676f3d6a697261"/></a>, <a href="#" alt="#">
-  <img src="https://camo.githubusercontent.com/cc30bafe0dff6e08e6394085af4f06b8d381a94b2979f0ddc52b0deb7d068ebe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a46726f672d3431424634373f7374796c653d666c61742d737175617265266c6f676f3d6a66726f67266c6f676f436f6c6f723d7768697465"/></a>, <strong>ClickUp</strong>, <strong>Trello</strong> and <strong>Redmine</strong>.
+  <img src="https://camo.githubusercontent.com/cc30bafe0dff6e08e6394085af4f06b8d381a94b2979f0ddc52b0deb7d068ebe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a46726f672d3431424634373f7374796c653d666c61742d737175617265266c6f676f3d6a66726f67266c6f676f436f6c6f723d7768697465"/></a>, <strong>ClickUp</strong>, <a href="#" alt="#"><img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/></a> and <strong>Redmine</strong>.
 </p>
 
 <p align="left">
