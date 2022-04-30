@@ -1,4 +1,6 @@
-<p align="left">A little bit about me ...</p>
+![](https://komarev.com/ghpvc/?username=armando-couto&color=006bed)
+
+<h3> :men: &nbsp;Sobre mim </h3>
 
 <p align="left">
   🌎 Functions: <strong>Manager Developer</strong>, <strong>DevOps</strong>, <strong>CSM</strong> and <strong>LKU</strong>.
