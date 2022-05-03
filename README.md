@@ -8,7 +8,7 @@
  
  - 🤵‍ &nbsp; Dedicação para fazer sempre um trabalho bem feito
  - :running_man: &nbsp; Sempre me atualizando sobre as novas ferramentas e tecnologias
- - 📚   Frequentemente fazendo cursos e obtendo certificações
+ - 📚  &nbsp; Frequentemente fazendo cursos e obtendo certificações
  - 🖥️ &nbsp; Meta: Dominar uma nova linguagem por ano
  - 🚀  &nbsp; Em constante autoaperfeiçoamento
  
