@@ -2,7 +2,17 @@
 ### :wave:	 Hello, I'm <strong>Armando Couto!</strong>
 
  - 💼 &nbsp;  Functions: <b>Manager Developer</b> |<b> DevOps</b> | <b>CSM | </b><b>LKU</b>
-<h3> :adult: &nbsp;About Me:</h3>
+
+<hr/>
+<h3> 👨 &nbsp;About Me:</h3>
+ 
+ - 🤵‍ &nbsp; Dedicação para fazer sempre um trabalho bem feito
+ - :running_man: &nbsp; Sempre me atualizando sobre as novas ferramentas e tecnologias
+ - 📚  Frequentemente fazendo cursos e obtendo certificações
+ - 🖥️ &nbsp; Meta: Dominar uma nova linguagem por ano
+ - 🚀  &nbsp; Em constante autoaperfeiçoamento
+ 
+
 <hr/>
 
 
@@ -70,8 +80,7 @@
 <p align="left">
   🏬 Deploy:
   
-  ><a href="#" alt="#">
-  <img src="https://camo.githubusercontent.com/204410115a0bb658668e7446bfc6a7eadb6a96a98d81daba65ddaaa541e95f58/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446f636b65722d3234393645443f7374796c653d666c61742d737175617265266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465?style=flat&labelColor=black"/></a> <span style="font-size: 1.5em;">|</span> <a href="#" alt="#"><img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&labelColor=black&logo=amazonaws&logoColor=white"/></a> <span style="font-size: 1.5em;">|</span> <strong>Portainer</strong> <span style="font-size: 1.5em;">|</span> <a href="#" alt="#"><img src="https://img.shields.io/badge/Heroku-430098?style=flat&labelColor=black&logo=heroku&logoColor=white"/></a> <span style="font-size: 1.5em;">|</span> <strong>Local Servers (<a href="#" alt="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&labelColor=black&logo=ubuntu&logoColor=white"/></a> <span style="font-size: 1.5em;">|</span> <a href="#" alt="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=flat&labelColor=black&logo=windows&logoColor=white"/></a>)</strong>.
+  > <a href="#" alt="#"> <img src="https://camo.githubusercontent.com/204410115a0bb658668e7446bfc6a7eadb6a96a98d81daba65ddaaa541e95f58/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446f636b65722d3234393645443f7374796c653d666c61742d737175617265266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465?style=flat&labelColor=black"/></a> <span style="font-size: 1.5em;">|</span> <a href="#" alt="#"><img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&labelColor=black&logo=amazonaws&logoColor=white"/></a> <span style="font-size: 1.5em;">|</span> <strong>Portainer</strong> <span style="font-size: 1.5em;">|</span> <a href="#" alt="#"><img src="https://img.shields.io/badge/Heroku-430098?style=flat&labelColor=black&logo=heroku&logoColor=white"/></a> <span style="font-size: 1.5em;">|</span> <strong>Local Servers (<a href="#" alt="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&labelColor=black&logo=ubuntu&logoColor=white"/></a> <span style="font-size: 1.5em;">|</span> <a href="#" alt="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=flat&labelColor=black&logo=windows&logoColor=white"/></a>)</strong>.
 </p>
 
 <p align="left">
