@@ -68,7 +68,7 @@
 <p align="left">
   🖥️ Server:
   
-  > <a href="#" alt="#"><img src="https://img.shields.io/badge/Nginx-009639?style=flat&labelColor=black&logo=nginx&logoColor=white"/></a> <span style="font-size: 1.5em;">|</span> <a href="#" alt="#"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Apache+Tomcat&color=222222&logo=Apache+Tomcat&logoColor=F8DC75&label=" style="height: 22px;"/></a> <span style="font-size: 1.5em;">|</span> <strong>JBoss EAP 6.1</strong> <span style="font-size: 1.5em;">|</span> <strong>Jetty 8</strong>.
+  > <a href="#" alt="#"><img src="https://img.shields.io/badge/Nginx-009639?style=flat&labelColor=black&logo=nginx&logoColor=white"/></a> <span style="font-size: 1.5em;">|</span> <a href="#" alt="#"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Apache+Tomcat&color=222222&logo=Apache+Tomcat&logoColor=F8DC75&label=" style="height: 22px;"/></a> <span style="font-size: 1.5em;">|</span> <strong>JBoss EAP 6.1</strong> <span style="font-size: 1.5em;">|</span> <a href="#" alt="#"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Eclipse+Jetty&color=FC390E&logo=Eclipse+Jetty&logoColor=FFFFFF&label=" style="height: 22px;"/></a>.
 </p>
 
 <p align="left">
