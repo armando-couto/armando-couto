@@ -86,7 +86,7 @@
 <p align="left">
   ✨ Agile Methodologies: 
   
-  ><strong>Scrum</strong> <span style="font-size: 1.5em;">|</span> <strong>Kanban</strong>.
+  ><a href="#" alt="#"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Scrum+Alliance&color=009FDA&logo=Scrum+Alliance&logoColor=FFFFFF&label=" style="height: 22px;"/></a> <span style="font-size: 1.5em;">|</span> <strong>Kanban</strong>.
 </p>
 
 <p align="left">
