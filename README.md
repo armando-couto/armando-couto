@@ -109,6 +109,9 @@
 
 <a href="https://armandocouto.com.br/" alt="Site Personal">
   <img src="https://img.shields.io/badge/-Site_Personal-0e76a8?style=flat&logoColor=white&color=orange&link=https://armandocouto.com.br/"/></a>
+ 
+<a href="https://medium.com/programming-to-live" alt="Medium">
+  <img src="https://img.shields.io/badge/-Site_Personal-0e76a8?style=flat&logoColor=white&color=black&link=https://medium.com/programming-to-live"/></a>
 </p>
 </p>
 
